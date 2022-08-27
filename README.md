@@ -32,5 +32,3 @@ Name:       Charan Kamal Singh
 Roll No:    CO21314
 
 Branch:     CSE
-
-Submitted to - Sarabjit Sir
