@@ -25,11 +25,3 @@ into the bookdata folder created in C:/Library Kiosk/bookdata folder .
 
 You can also visit this link:  
 https://linktr.ee/libraryKiosk
-
-Credits: 
-
-Name:       Charan Kamal Singh
-
-Roll No:    CO21314
-
-Branch:     CSE
